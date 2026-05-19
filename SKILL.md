@@ -1,6 +1,6 @@
 ---
 name: ad-hook-generator
-description: "Generate 30+ scroll-stopping ad hooks for Meta/Facebook ads through a structured research-to-hooks pipeline. Use this skill whenever someone needs ad hooks, wants to generate hook variations for testing, needs scroll-stopping openers for video or static ads, wants to apply proven hook frameworks to their product, or needs a hook library ranked by predicted performance. Also trigger when users mention ad hooks, scroll stoppers, hook rate, first 3 seconds, opening lines, hook testing, hook variations, pattern interrupts, or any request to write the attention-grabbing opener of an ad. This skill follows a rigorous 6-step process: brand and audience research â competitor hook audit â customer language mining â framework matching (from a library of 51 frameworks: 20 copy + 31 visual) â hook generation â scoring and ranking. Each step feeds the next. Works fully standalone or accelerated by prior outputs from the Competitor Ad Spy, Ad Angle Generator, or Audience Pain Point Miner. Outputs 30+ hooks with hook-rate predictions as a branded Baweja Media DOCX. Does NOT write full ad copy â use ad-copy-writer for complete primary text + headline + description sets."
+description: "Generate 30+ scroll-stopping ad hooks for Meta/Facebook ads through a 6-step research-to-hooks pipeline. Use when someone needs ad hooks, hook variations for testing, scroll-stopping openers for video or static ads, or a hook library ranked by predicted performance. Trigger on: ad hooks, scroll stoppers, hook rate, first 3 seconds, opening lines, hook testing, pattern interrupts. Process: brand research, competitor hook audit, customer language mining, framework matching (51 frameworks: 20 copy + 31 visual), hook generation, scoring and ranking. Works standalone or accelerated by Competitor Ad Spy, Ad Angle Generator, or Pain Point Miner outputs. Outputs 30+ scored hooks as a branded DOCX. Does NOT write full ad copy â use ad-copy-writer for that."
 ---
 
 # Ad Hook Generator
@@ -17,7 +17,7 @@ The insight behind this skill: the hook is the ad. Everything after the hook â�
 
 **DOES:**
 - Generate 30+ hooks through a structured 6-step process
-- Work fully standalone â no prior skills required
+- Work fully standalone â prior skills required
 - Accelerate if the user has already run the Competitor Ad Spy, Ad Angle Generator, or Audience Pain Point Miner (imports their outputs as a shortcut)
 - Score each hook with a predicted hook-rate range
 - Organize hooks by framework type, format (video vs. static), and funnel stage

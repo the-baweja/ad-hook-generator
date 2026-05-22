@@ -68,7 +68,7 @@ This is skill 4 of 10 in the **AI Skills for Media Buyers** series by [Baweja Me
 
 ## Want Baweja Media to audit your ad account and explore opportunities to work together?
 
-[→ Book a free strategy call](https://webinar.sannidhyabaweja.com/vsl-lp-ind)
+[→ Book a strategy call](https://webinar.sannidhyabaweja.com/vsl-lp-ind)
 
 ---
 
